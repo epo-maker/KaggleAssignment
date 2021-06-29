@@ -17,9 +17,12 @@ scikit-learn = "==0.24.2"
 matplotlib = "==3.4.2"
 seaborn = "*"
 xgboost = "*"
+<<<<<<< HEAD
 hyperopt = "*"
 mlxtend = "*"
 logitboost = "*"
+=======
+>>>>>>> 43b1f4b61179ea9a5b1b03e345c538681c8f1b2b
 
 [dev-packages]
 
