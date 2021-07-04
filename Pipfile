@@ -20,7 +20,7 @@ xgboost = "*"
 hyperopt = "*"
 mlxtend = "*"
 logitboost = "*"
-
+lime = "*"
 
 [dev-packages]
 
