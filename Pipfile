@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-src = {editable = true, file = "file:///C:/Users/Me/Projects/KaggleAssignment/KaggleAssignment"}
 click = "*"
 coverage = "*"
 awscli = "*"
